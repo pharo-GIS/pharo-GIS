@@ -1,5 +1,4 @@
 # pharo-GIS
-Pharo-GIS
 
 ## Standards and organisation
 
