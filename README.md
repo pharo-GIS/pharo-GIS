@@ -11,4 +11,5 @@ Pharo-GIS
 
 * [GDAL](https://gdal.org/) (Geospatial Data Abstraction Library) is a computer software library for reading and writing raster and vector geospatial data formats. This library provides very powerful tools to change projection systems. It is used by a very [large number of software](https://gdal.org/software_using_gdal.html#software-using-gdal) and in particular [Google Map](https://thenewstack.io/gdal-the-open-source-technology-behind-google-maps/)
 
-## Pharo lib
+## Pharo Software
+* https://github.com/hernanmd/Shapes
